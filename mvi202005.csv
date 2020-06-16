@@ -1,4 +1,4 @@
-ORD DATA,HORA,VÍTIMA,ID,ARMA,BAIRRO/FATO,MUNICÍPIO/FATO,
+ORD DATA,HORA,VÍTIMA,ID,ARMA,BAIRRO/FATO,MUNICÍPIO/FATO,TIPO
 01 04/05/20,14:48,Deyson Abreu Silva,24,De fogo,Cidade Olímpica,São Luís,Homicídio Doloso
 02 05/05/20,18:00,Daniele Rocha Moraes,25,Outros meios,Santa Bárbara,São Luís,Homicídio Doloso
 03 07/05/20,20:23,Valdeilson Dos Anjos Neves,40,De fogo,Gapara,São Luís,Homicídio Doloso
