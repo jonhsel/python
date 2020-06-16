@@ -1,90 +1,37 @@
-ORD DATA,HORA,VÍTIMA (S),,ID,ARMA,BAIRRO/FATO,MUNICÍPIO/FATO
-01 04/05/20,14:48,Deyson Abreu Silva,,24,De fogo,Cidade Olímpica,São Luís
-02 05/05/20,18:00,Daniele Rocha Moraes,,25,Outros meios,Santa Bárbara,São Luís
-03 07/05/20,20:23,Valdeilson Dos Anjos Neves,,40,De fogo,Gapara,São Luís
-04 08/05/20,19:30,Paulo Roberto Moreira Pereira,,34,De fogo,Cidade Operária,São Luís
-05 09/05/20,16:00,Marcos Roberto Lopes Pereira,,31,De fogo,Vila São Sebastião,São Luís
-06 10/05/20,08:40,Carlos Augusto Reis Máximo Filho,,38,De fogo,Camboa,São Luís
-07 11/05/20,15:45,Aldemir Diniz Chagas,,40,De fogo,Liberdade,São Luís
-08 13/05/20,14:20,Edio Ribeiro da Silva,,25,De fogo,Rio grande,São Luís
-09 15/05/20,12:05,D. P. P. V.,,17,De fogo,Vila Cafeteira,Paço do Lumiar
-10 15/05/20,18:15,Guilherme Pablo da Silva Barbosa,,19,De fogo,Cruzeiro do anil,São Luís
-11 15/05/20,19:00,Fabiano Alves Monteiro,,33,De fogo,Oiteiro,São José de Ribamar
-12 15/05/20,19:23,Uberlan Rodrigues Sousa,,39,De fogo,Parque Jair,São José de Ribamar
-13 16/05/20,04:00,Reinado Caldas Gomes,,34,Branca,Res. João Alberto,São Luís
-14 16/05/20,13:30,Luís Paulo dos Santos Frazão,,22,De fogo,Jardim São Raimundo,São Luís
-15 17/05/20,02:00,Não identificado (sexo masculino),,~25,Outros meios,Centro,São Luís
-16 17/05/20,03:17,Paulo Sérgio Araújo Júnior,,29,De fogo,Vila Isabel Cafeteira,São Luís
-17 17/05/20,18:47,Carlos Magno Franca Costa,,44,Branca,Anjo da Guarda,São Luís
-18 17/05/20,19:30,Alexandro Pinheiro Nunes,,37,De fogo,Alto São Sebastião,São Luís
-19 17/05/20,19:42,A. A. F.,,17,De fogo,Vila dos nobres,São Luís
-20 17/05/20,21:08,Janyelson Sousa da Silva,,22,De fogo,Fátima,São Luís
-21 17/05/20,22:00,Daniel Paiva de Sousa,,30,De fogo,Vila Alcione Ferreira,São José de Ribamar
-22 21/05/20,19:30,Rafael Wyldson Vilela Batista,,29,De fogo,Vila Dr. Julinho,São José de Ribamar
-23 21/05/20,21:50,Matheus Assunção Ferreira,,24,De fogo,Parque Shalon,São Luís
-24 22/05/20,18:30,Michel Breno Moreira,,22,De fogo,Bom Jesus,São Luís
-25 22/05/20,19:20,Carlos Eduardo Soares Junior,,21,De fogo,João Paulo,São Luís
-26 25/05/20,20:16,Edivan Cunha,,35,De fogo,Vila Magril,São Luís
-27 26/05/20,10:00,Joana Maria Diniz,,66,Outros meios,Recanto dos Signos,São Luís
-28 26/05/20,18:30,Fredison Alan Serra Abreu,,34,De fogo,Vila Cafeteira,São José de Ribamar
-29 26/05/20,19:30,Eduardo Henrique Maramaldo,,24,De fogo,Barramar,São Luís
-30 31/05/20,15:53,J. C. S.,,17,De fogo,Cidade Operária,São Luís
-31 31/05/20,15:53,M. E. T. de O.,,15,De fogo,Cidade Operária,São Luís
-TOTAL: 31 vítimas.,,,,,,,
-ORD DATA/FATO,HORA,DATA/ÓBITO,,VÍTIMA (S),ID,ARMA,BAIRRO/FATO,MUNICÍPIO/FATO
-"",,,,,,,,
-TOTAL: 00 vítima.,,,,,,,,
-ORD DATA,HORA,,VÍTIMA (S),ID,ARMA,BAIRRO/FATO,MUNICÍPIO/FATO
-01 11/05/20,19:30,Nelci Costa Rabelo,,85,Outros meios,Nova betel,São Luís
-TOTAL: 01 vítima.,,,,,,,
-ORD DATA,HORA,,VÍTIMA (S),ID,BAIRRO/FATO,MUNICÍPIO/FATO,CAUSA
-"",,,,,,,
-TOTAL: 00 vítima.,,,,,,,
-ORD DATA,HORA,,VÍTIMA (S),ID,UNIDADE,MUNICÍPIO/FATO,CAUSA
-"",,,,,,,
-TOTAL: 00 vítima.,,,,,,,
-ORD DATA,HORA,,VÍTIMA (S),ID,BAIRRO/FATO,MUNICÍPIO/FATO,CAUSA
-"",,,,,,,
-TOTAL: 00 vítima.,,,,,,,
-ORD DATA,HORA,,VÍTIMA (S),ID,BAIRRO/FATO,MUNICÍPIO/FATO,CAUSA
-"",,,,,,,
-TOTAL: 00 vítima.,,,,,,,
-ORD DATA,HORA,,VÍTIMA (S),ID,BAIRRO/FATO,MUNICÍPIO/FATO,CAUSA
-01 01/05/20,23:00,Ronilson Dixon Freitas Lopes,,54,Jardim turú,São José de Ribamar,Colisão
-02 10/05/20,00:30,Rafael Farias Pinheiro,,29,Anjo da Guarda,São Luís,Colisão
-03 10/05/20,18:40,Luís Fernando Pereira Valentim,,42,Calhau,São Luís,Colisão
-04 18/05/20,00:09,Cirlene Santos Nascimento,,23,Ipase,São Luís,Choque
-05 25/05/20,22:00,Não identificado (sexo masculino),,~,Barragem do Bacanga,São Luís,Atropelamento
-TOTAL: 05 vítimas.,,,,,,,
-ORD DATA,HORA,,VÍTIMA (S),ID,BAIRRO/FATO,MUNICÍPIO/FATO,CAUSA
-"",,,,,,,
-TOTAL: 00 vítima.,,,,,,,
-ORD DATA,HORA,,VÍTIMA (S),ID,BAIRRO/FATO,MUNICÍPIO/FATO,MEIO
-01 02/05/20,06:02,Raimundo da Natividade Gomes Júnior,,52,Calhau,São Luís,Queda em altura
-02 09/05/20,19:00,Maria Da Conceição Pereira,,37,J. Câmara,São José de Ribamar,Enforcamento
-03 13/05/20,12:45,Jucileide Reis Souza,,24,Maracanã,São Luís,Enforcamento
-04 31/05/20,22:03,Antônio Márcio Bezerra de Sousa,,30,Tendal,Paço do Lumiar,Enforcamento
-TOTAL: 04 vítimas.,,,,,,,
-ORD DATA,HORA,,VÍTIMA (S),ID,BAIRRO/FATO,MUNICÍPIO/FATO,CAUSA
-01 08/05/20,07:28,Keilandia Lopes Soares,,46,Fátima,São Luís,Descarga elétrica
-02 16/05/20,11:23,Não identificada (sexo masculino),,~25,Panaquatira,São José de Ribamar,Afogamento
-03 21/05/20,23:20,João Leno dos Santos,,30,Nova Terra,São José de Ribamar,Descarga elétrica
-04 26/05/20,11:40,Adeilton Michel Lisboa Quadros,,38,Olho D’água,São José de Ribamar,Afogamento
-TOTAL: 04 vítimas.,,,,,,,
-ORD DATA,HORA,,VÍTIMA (S),ID,BAIRRO/FATO,MUNICÍPIO/FATO,CAUSA
-01 04/05/20,04:00,Magna Maiara Ferreira de Jesus,,31,Olho D ́água,São Luís,Choque
-02 18/05/20,00:09,Jouberth Castro Sousa,,40,Ipase,São Luís,Choque
-03 30/05/20,19:21,Justino de Oliveira Pereira Neto,,32,Sá Viana,São Luís,Choque
-TOTAL: 03 vítimas.,,,,,,,
-ORD DATA,HORA,,VÍTIMA (S),ID,BAIRRO/FATO,MUNICÍPIO/FATO
-01 18/05/20,10:57,,Walison Junior Duarte Muniz,22,De fogo,Vila Funil
-02 19/05/20,06:00,,W. B. C.,17,De fogo,Alonso Costa
-03 23/05/20,13:33,,Adriano Ribeiro,33,De fogo,Parque Araçagy
-TOTAL: 03 vítimas.,,,,,,
-ORD DATA,HORA,,VÍTIMA (S),ID,BAIRRO/FATO,MUNICÍPIO/FATO,OBS.
-01 25/05/20,06:37,Raimundo Pedro Pereira Neto,,22,A definir,A definir,Morte por arma de fogo
-02 30/05/20,~,Bruno Falconi Fontoura,,43,Tirirical,São Luís,Possível suicídio
-TOTAL: 02 vítimas.,,,,,,,
-ORD DATA/FATO,HORA,,DATA/ÓBITO,VÍTIMA (S),ID,ARMA,BAIRRO/FATO,MUNICÍPIO/FATO
-"",,,,,,,,
-TOTAL: 00 vítima.,,,,,,,,
+ORD DATA,HORA,VÍTIMA,ID,ARMA,BAIRRO/FATO,MUNICÍPIO/FATO,
+01 04/05/20,14:48,Deyson Abreu Silva,24,De fogo,Cidade Olímpica,São Luís,Homicídio Doloso
+02 05/05/20,18:00,Daniele Rocha Moraes,25,Outros meios,Santa Bárbara,São Luís,Homicídio Doloso
+03 07/05/20,20:23,Valdeilson Dos Anjos Neves,40,De fogo,Gapara,São Luís,Homicídio Doloso
+04 08/05/20,19:30,Paulo Roberto Moreira Pereira,34,De fogo,Cidade Operária,São Luís,Homicídio Doloso
+05 09/05/20,16:00,Marcos Roberto Lopes Pereira,31,De fogo,Vila São Sebastião,São Luís,Homicídio Doloso
+06 10/05/20,08:40,Carlos Augusto Reis Máximo Filho,38,De fogo,Camboa,São Luís,Homicídio Doloso
+07 11/05/20,15:45,Aldemir Diniz Chagas,40,De fogo,Liberdade,São Luís,Homicídio Doloso
+08 13/05/20,14:20,Edio Ribeiro da Silva,25,De fogo,Rio grande,São Luís,Homicídio Doloso
+09 15/05/20,12:05,D. P. P. V.,17,De fogo,Vila Cafeteira,Paço do Lumiar,Homicídio Doloso
+10 15/05/20,18:15,Guilherme Pablo da Silva Barbosa,19,De fogo,Cruzeiro do anil,São Luís,Homicídio Doloso
+11 15/05/20,19:00,Fabiano Alves Monteiro,33,De fogo,Oiteiro,São José de Ribamar,Homicídio Doloso
+12 15/05/20,19:23,Uberlan Rodrigues Sousa,39,De fogo,Parque Jair,São José de Ribamar,Homicídio Doloso
+13 16/05/20,04:00,Reinado Caldas Gomes,34,Branca,Res. João Alberto,São Luís,Homicídio Doloso
+14 16/05/20,13:30,Luís Paulo dos Santos Frazão,22,De fogo,Jardim São Raimundo,São Luís,Homicídio Doloso
+15 17/05/20,02:00,Não identificado (sexo masculino),25,Outros meios,Centro,São Luís,Homicídio Doloso
+16 17/05/20,03:17,Paulo Sérgio Araújo Júnior,29,De fogo,Vila Isabel Cafeteira,São Luís,Homicídio Doloso
+17 17/05/20,18:47,Carlos Magno Franca Costa,44,Branca,Anjo da Guarda,São Luís,Homicídio Doloso
+18 17/05/20,19:30,Alexandro Pinheiro Nunes,37,De fogo,Alto São Sebastião,São Luís,Homicídio Doloso
+19 17/05/20,19:42,A. A. F.,17,De fogo,Vila dos nobres,São Luís,Homicídio Doloso
+20 17/05/20,21:08,Janyelson Sousa da Silva,22,De fogo,Fátima,São Luís,Homicídio Doloso
+21 17/05/20,22:00,Daniel Paiva de Sousa,30,De fogo,Vila Alcione Ferreira,São José de Ribamar,Homicídio Doloso
+22 21/05/20,19:30,Rafael Wyldson Vilela Batista,29,De fogo,Vila Dr. Julinho,São José de Ribamar,Homicídio Doloso
+23 21/05/20,21:50,Matheus Assunção Ferreira,24,De fogo,Parque Shalon,São Luís,Homicídio Doloso
+24 22/05/20,18:30,Michel Breno Moreira,22,De fogo,Bom Jesus,São Luís,Homicídio Doloso
+25 22/05/20,19:20,Carlos Eduardo Soares Junior,21,De fogo,João Paulo,São Luís,Homicídio Doloso
+26 25/05/20,20:16,Edivan Cunha,35,De fogo,Vila Magril,São Luís,Homicídio Doloso
+27 26/05/20,10:00,Joana Maria Diniz,66,Outros meios,Recanto dos Signos,São Luís,Homicídio Doloso
+28 26/05/20,18:30,Fredison Alan Serra Abreu,34,De fogo,Vila Cafeteira,São José de Ribamar,Homicídio Doloso
+29 26/05/20,19:30,Eduardo Henrique Maramaldo,24,De fogo,Barramar,São Luís,Homicídio Doloso
+30 31/05/20,15:53,J. C. S.,17,De fogo,Cidade Operária,São Luís,Homicídio Doloso
+31 31/05/20,15:53,M. E. T. de O.,15,De fogo,Cidade Operária,São Luís,Homicídio Doloso
+01 11/05/20,19:30,Nelci Costa Rabelo,85,Outros meios,Nova betel,São Luís,Latrocínio
+01 18/05/20,10:57,Walison Junior Duarte Muniz,22,De fogo,Vila Funil,,Morte Decorrente de Intervenção Policial
+02 19/05/20,06:00,W. B. C.,17,De fogo,Alonso Costa,,Morte Decorrente de Intervenção Policial
+03 23/05/20,13:33,Adriano Ribeiro,33,De fogo,Parque Araçagy,,Morte Decorrente de Intervenção Policial
+01 25/05/20,06:37,Raimundo Pedro Pereira Neto,22,A definir,A definir,Morte por arma de fogo,Morte a Esclarecer
